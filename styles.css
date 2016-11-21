@@ -1,0 +1,89 @@
+
+body {
+/* background-image:url('../Assignment2/images/background.jpg') ;
+background-repeat: no-repeat; */
+
+background-color: #ded4d4;
+    /* margin: auto; */
+    margin-top: 10px;
+    margin-bottom: 31px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 96px;
+
+}
+h1 {
+	   color: #ff2500;
+    font-size: 104px;
+    float: left;
+
+}
+
+img {
+	margin-top: 149px;
+    margin-left: -421px;
+	
+}
+
+p {
+	font-size:25px;
+	
+}
+.section {
+	background-color: #ade0db;
+    padding-right: 100px;
+    padding-left: 84px;
+    width: 721px;
+    margin-left: 233px;
+    margin-bottom: 86px;
+    margin-top: -191px;
+	
+	
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+	margin-left: 556px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+img2 {
+	width: 70%;
+    margin-left:112;
+    /* margin-right: 20px; */
+    margin-top: 20px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	margin-bottom:10px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
